@@ -1,0 +1,27 @@
+{
+  "name": "m2_sad",
+  "version": "1.0.0",
+  "description": "m2_sad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardocieslinski/m2_sad_eduardo_cieslinski.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardocieslinski/m2_sad_eduardo_cieslinski.git"
+  },
+  "homepage": "https://github.com/eduardocieslinski/m2_sad_eduardo_cieslinski.git",
+  "dependencies": {
+    "@telegraf/session": "^1.0.1",
+    "axios": "^0.24.0",
+    "moment": "^2.29.1",
+    "node-schedule": "^1.3.3",
+    "telegraf": "3.17.3"
+  }
+}
